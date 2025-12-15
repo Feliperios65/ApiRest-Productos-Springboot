@@ -39,9 +39,9 @@ Este repositorio aloja un servicio backend que implementa una API RESTful para l
 
 <div align="center">
 
-**⭐ Star this repo if you find it helpful!**
+**⭐ ¡Marca este repositorio con una estrella si te resulta útil!**
 
-Made with ❤️ by Feliperios65
+Hecho con ❤️ por Feliperios65
 
 </div>
 
